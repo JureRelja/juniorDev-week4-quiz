@@ -1,0 +1,54 @@
+.input-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1.5em;  
+}
+
+.input-form h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.input-form-field {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    row-gap: 5px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.input-form-field label {
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.input-form input {
+    
+    padding: 5px;
+    border: 1px solid #898989;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    outline: none;
+    background-color: white;
+    color: black;
+}
+
+
+.input-form select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #898989;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    outline: none;
+    background-color: white;
+    color: black;
+}
