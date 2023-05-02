@@ -10,7 +10,7 @@ In March 2023 I attended a 2-month long React education at [Digitalna Dalmacija]
 
 ### Challenge
 
-The task was to build a quiz app in React. The user can choose what type of questions and how many he wants and then generate a quiz with those questions. He than can answer those questions with real time score and feedback on each question.
+The task was to build a quiz app in React. The user can choose what type of questions and how many he wants and then generate a quiz with those questions. He then can answer those questions with real-time scores and feedback on each question.
 
 ### Screenshot
 
@@ -29,4 +29,6 @@ The task was to build a quiz app in React. The user can choose what type of ques
 
 ### What I learned
 
-This project was one of my favorite ones I made at Digitalna Dalmacija. I learned how to utilize useEffect hook, and how to manipulate state to provide instant feedback to the user. I also learned how to use Axios to fetch data from an API.
+This project was one of my favorite ones I made at Digitalna Dalmacija because it got me feeling for the first time that I have built something ready to use. Something that works as described and it's fun to use.
+
+I learned how to utilize the useEffect hook, and how to manipulate component state to provide instant feedback to the user. I also learned how to use Axios to fetch data from an API.
